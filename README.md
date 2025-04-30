@@ -1,12 +1,12 @@
 # Decision Tree implementation
 *COMPANY*: CODETECH IT SOLUTIONS
-*NAME*: YOGESH S
-*INTERN ID*: 
-*DOMAIN*: 
-*DURATION*:
+*NAME*: Yogesh S
+*INTERN ID*: CT04WT294
+*DOMAIN*: Machine Learning
+*DURATION*: 4 weeks from April 5th to May 5th, 2025.
 *MENTOR*: NEELA SANTOSH
- DESCRIPTION:
- Decision Tree Implementation on Iris Dataset
+
+**Decision Tree Implementation on Iris Dataset
 This project implements a Decision Tree algorithm to classify Iris flowers based on their features. The Iris dataset, a classic dataset in machine learning, is used to train and evaluate the model.
 
 Project Overview
@@ -40,4 +40,4 @@ Experiment with different Decision Tree hyperparameters (e.g., max_depth, min_sa
 
 Visualize the Decision Tree to better understand the decision-making process.
 
-Explore other classification algorithms and compare their performance with the Decision Tree.
+Explore other classification algorithms and compare their performance with the Decision Tree.**
